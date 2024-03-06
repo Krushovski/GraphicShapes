@@ -1,0 +1,23 @@
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormScene.resources
+C:\Users\HP\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormProperties.resources
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormProperties.resources
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormScene.resources
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCircle.resources
+C:\Users\HP\Desktop\VISUAL STUDIO DOCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
